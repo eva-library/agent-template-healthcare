@@ -41,9 +41,11 @@ This solution is focused in Healthcare, featuring the following 18 flows:
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To Spanish, click [HERE] [Agent Template Healthcare v1.0 (spanish).zip](https://github.com/eva-library/agent-template-healthcare/files/8226970/Agent.Template.Healthcare.v1.0.spanish.zip)
+To Spanish, click [HERE] [Agent Template Healthcare (Spanish).zip](https://github.com/eva-library/agent-template-healthcare/files/8482122/cff54559-fb65-4263-8d73-cafedef9bde7.zip)
 
-To Portuguese, click [HERE] [Agent Template Healthcare v1.0 (portuguese).zip](https://github.com/eva-library/agent-template-healthcare/files/8226973/Agent.Template.Healthcare.v1.0.portuguese.zip)
+
+To Portuguese, click [HERE] [Agent Template Healthcare (Portuguese).zip](https://github.com/eva-library/agent-template-healthcare/files/8482116/3d8b5778-6228-4ff4-8fa9-63a8096b9a57.zip)
+
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
