@@ -1,4 +1,4 @@
-# Agent Template Healthcare v 1.0 (spanish and portuguese)
+# Agent Template Healthcare v 1.0 (spanish, english and portuguese)
 Use Healthcare-oriented template pre-created to train your bot
 
 ## Requirements 
@@ -43,6 +43,7 @@ It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
 To Spanish, click [HERE] [Agent Template Healthcare (Spanish).zip](https://github.com/eva-library/agent-template-healthcare/files/8482122/cff54559-fb65-4263-8d73-cafedef9bde7.zip)
 
+To English, click [HERE] [Agent Template Healthcare (English).zip](https://github.com/eva-library/agent-template-healthcare/files/8978866/Agent.Template.Healthcare.English.zip)
 
 To Portuguese, click [HERE] [Agent Template Healthcare (Portuguese).zip](https://github.com/eva-library/agent-template-healthcare/files/8482116/3d8b5778-6228-4ff4-8fa9-63a8096b9a57.zip)
 
