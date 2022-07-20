@@ -34,7 +34,7 @@ This solution is focused in Healthcare, featuring the following 18 flows:
 
 
 ### Important
-- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE]https://docs.eva.bot/eva-by-ntt-data-documentation/ to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva to know more about how to use eva.
 - The languages are Spanish and Portuguese, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
