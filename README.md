@@ -13,25 +13,24 @@ The solution is focused on the healthcare area, but there are many flows that ca
 Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
 This solution is focused in Healthcare, featuring the following 18 flows:
 
-- Agendamiento de Citas
-- Agendamiento de Examenes
-- Bienvenida
-- Cancelación de Citas
-- Cerrar Chat
-- Fin
-- Flujo de Registro
-- Hablar con agente
-- Hablar con agente jump
-- Login
-- Menú
-- No esperado
-- Palabrotas
-- Preguntas Frecuentes
-- Servicio de Atención al Cliente
-- Sugerencia y reclamos
-- Test de Bienestar
-- Ubicación
-
+- Ask me
+- Cancel appointment 
+- Close chat 
+- Contact center 
+- Customer satisfaction survey
+- End
+- Exams schedulling
+- Location 
+- Login 
+- Not expected 
+- Register 
+- Scheduling appointments
+- Start if 
+- Suggestion and claims 
+- Swearwords 
+- Talk to an agent 
+- Welcome 
+- Wellness test
 
 ### Important
 - Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva to know more about how to use eva.
