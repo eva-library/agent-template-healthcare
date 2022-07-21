@@ -1,4 +1,4 @@
-# Agent Template Healthcare v 1.0 (spanish, english and portuguese)
+# Agent Template Healthcare v 1.0 (english, spanish and portuguese)
 Use Healthcare-oriented template pre-created to train your bot
 
 ## Requirements 
