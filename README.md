@@ -41,11 +41,11 @@ This solution is focused in Healthcare, featuring the following 18 flows:
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file
 
-To Spanish, click [HERE][AT Healthcare ESP.zip](https://github.com/eva-library/agent-template-healthcare/files/9014768/AT.Healthcare.ESP.zip)
+To Spanish, click [HERE](https://github.com/eva-library/agent-template-healthcare/files/9014768/AT.Healthcare.ESP.zip)
 
-To English, click [HERE][AT Healthcare ENG.zip](https://github.com/eva-library/agent-template-healthcare/blob/main/472a6d5c-757e-4ac8-addf-323ad290bdc1.zip)
+To English, click [HERE](https://github.com/eva-library/agent-template-healthcare/blob/main/472a6d5c-757e-4ac8-addf-323ad290bdc1.zip)
 
-To Portuguese, click [HERE] [AT Healthcare PT.zip](https://github.com/eva-library/agent-template-healthcare/files/9014770/AT.Healthcare.PT.zip)
+To Portuguese, click [HERE](https://github.com/eva-library/agent-template-healthcare/files/9014770/AT.Healthcare.PT.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
