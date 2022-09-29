@@ -38,8 +38,9 @@ This solution is focused in Healthcare, featuring the following 18 flows:
 - This feature is only available for eva versions starting with 3.4
 
 ## How to import a bot template
-It's super easy! Only 5 steps:
-1) First, download Agent Template zip file
+It's easy and can be done in just 5 steps:
+
+1) First, download the Agent Template zip file
 
 To Spanish, click [HERE](https://github.com/eva-library/agent-template-healthcare/files/9014768/AT.Healthcare.ESP.zip)
 
@@ -47,21 +48,21 @@ To English, click [HERE](https://github.com/eva-library/agent-template-healthcar
 
 To Portuguese, click [HERE](https://github.com/eva-library/agent-template-healthcare/files/9014770/AT.Healthcare.PT.zip)
 
-2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
+2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
 
-![import (1)](https://user-images.githubusercontent.com/95373474/181065887-ee4b3cf9-197f-4a12-9835-1e4b810cbc0a.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192916526-eec6dc0d-c47e-4b1c-97b4-c186a329ff27.png)
 
-3) Then, import the zip file:
+3) Then, choose the option "new ID"
 
-![import](https://user-images.githubusercontent.com/95373474/181065448-ccf39ac9-5489-44ef-ad5a-800ba1ecb57f.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192916501-3ad5ffd5-13fe-49a7-8798-08d3247b3dbd.png)
 
-4) Finally, give a name to your template:
+4) Import the zip file and give your VA a name
 
-![NAME](https://user-images.githubusercontent.com/95373474/181066132-ad4a08d6-1a13-4c0d-bb2b-efdc39d08d93.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192916478-c584b4c1-3b06-46b6-a7bf-5f295cff5cdd.png)
 
-5) Then, ready! Your bot template will be in the bot repository.
+5) All done! The virtual agent will be available in your library.
 
-![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192916457-fc6fa443-b0fb-4bae-aaa9-77680d24e681.png)
 
 
 ## Manual
